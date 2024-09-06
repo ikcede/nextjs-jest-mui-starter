@@ -2,6 +2,7 @@
 
 Built using the recommended NextJS App Router, get started quickly with a Next.js template using:
 
+- The src/ folder
 - App Router
 - Jest + User Events
 - MUI + MUI Icons
